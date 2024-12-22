@@ -85,7 +85,7 @@ def draw_shape_with_turtle(sub_shapes):
         if not shape:
             continue
 
-        color = "#FFF0DC"
+        color = "#FFFFFF"
         t.fillcolor(color)
 
         t.pensize(random.randint(1, 3))
